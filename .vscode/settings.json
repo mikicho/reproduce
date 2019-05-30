@@ -1,0 +1,6 @@
+{
+    "haxe.configurations": [ ["--cwd", "src/server", "server.hxml"] ],
+    "haxe.displayServer": {
+        "arguments": ["-v"]
+    }
+}
