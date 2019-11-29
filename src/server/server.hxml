@@ -1,4 +1,3 @@
--cp src
 -main Server
 
 -js bin/server.js
