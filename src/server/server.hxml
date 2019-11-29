@@ -2,3 +2,5 @@
 -main Server
 
 -js bin/server.js
+
+-lib hxnodejs
